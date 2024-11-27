@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'HELLO I AM XU'
+title = '       嗨我是許舒雅      '
 theme = 'hugo-theme-stack'
 
 [params]
