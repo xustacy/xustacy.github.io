@@ -1,12 +1,3 @@
-+++
-date = "2024-11-11"
-title = "這裡是許舒雅"
-description = "Wishing you happiness today, tomorrow, and always!"
-image = "XU.jpg"
-categories = ["XU,SHU-YA"]
-weight = -1  # 設置為 -1 使其顯示在最上方
-+++
-
 ::::info
 **你好，歡迎來到我製作的網頁，在這裡你將會看到我的個人成長經歷**
 **Hello, welcome to my made webpage. Here you will see your personal experience about my personal experience.**
