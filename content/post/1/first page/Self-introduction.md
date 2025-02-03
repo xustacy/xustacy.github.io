@@ -2,9 +2,11 @@
 title: '關於我的成長經歷'
 ---
 
-{{< admonition note "你好，歡迎來到我製作的網頁" >}}
+{{< alert "info" >}}
+**你好，歡迎來到我製作的網頁，在這裡你將會看到我的個人成長經歷**
 **Hello, welcome to my made webpage. Here you will see your personal experience about my personal experience.**
-{{< /admonition >}}
+{{< /alert >}}
+
 
 {{< details "往下展開了解更多 :wave:" >}}
 ### **關於我個人:**
