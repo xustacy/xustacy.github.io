@@ -4,6 +4,6 @@ title = 'HELLO I AM XU'
 theme = 'ananke'
 
 [params]
-  avatar = "img/images.png"  # 設定大頭貼圖片的路徑
-  site_name = "嗨我是許舒雅"  # 設定網站名稱
-  subtitle = "歡迎來到我的網站"  # 副標題（如果需要）
+  mainSections = ["post"]
+
+  

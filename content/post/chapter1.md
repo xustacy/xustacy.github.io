@@ -1,11 +1,9 @@
 ---
-title: 'About Me'
+title: "About Me"
+date: 2025-01-15
+draft: false
+featured_image: '/img/jpg1.jpg'
 ---
-
-<div style="border-left: 5px solid #007acc; padding: 1rem; background-color: #f0f8ff; border-radius: 5px;">
-    <strong>你好，歡迎來到我製作的網頁，在這裡你將會看到我的個人成長經歷</strong>
-    <p>Hello, welcome to my made webpage. Here you will see your personal experience about my personal experience.</p>
-</div>
 
 ### **關於我個人:**
 - **姓名：** 許舒雅  
