@@ -1,5 +1,5 @@
 ---
-title: '關於我的成長經歷'
+title: 'About Me'
 ---
 
 <div style="border-left: 5px solid #007acc; padding: 1rem; background-color: #f0f8ff; border-radius: 5px;">

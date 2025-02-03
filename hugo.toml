@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = '      HELLO I AM XU     '
-theme = 'hugo-theme-stack'
+title = 'HELLO I AM XU'
+theme = 'ananke'
 
 [params]
   avatar = "img/images.png"  # 設定大頭貼圖片的路徑

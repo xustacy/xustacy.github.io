@@ -1,32 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>       嗨我是許舒雅      </title>
+    <title>這裡是許舒雅 on </title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on        嗨我是許舒雅      </description>
+    <description>Recent content in 這裡是許舒雅 on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>HELLO</title>
-      <link>http://localhost:1313/post/1/first-page/</link>
-      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/1/first-page/</guid>
-      <description>&lt;p&gt;您好！我是許舒雅&lt;br&gt;&#xA;來自東海大學資訊管理系&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>我最喜愛的動物</title>
       <link>http://localhost:1313/post/2/</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Search</title>
-      <link>http://localhost:1313/others/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/others/search/</guid>
       <description></description>
     </item>
   </channel>
