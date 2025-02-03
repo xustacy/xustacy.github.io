@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>這裡是許舒雅 on </title>
+    <title>這裡是許舒雅 on HELLO I AM XU</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in 這裡是許舒雅 on </description>
+    <description>Recent content in 這裡是許舒雅 on HELLO I AM XU</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>我最喜愛的動物</title>
-      <link>http://localhost:1313/post/2/</link>
-      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2/</guid>
-      <description></description>
+      <title>Articles</title>
+      <link>http://localhost:1313/post/</link>
+      <pubDate>Thu, 02 Mar 2017 12:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/post/</guid>
+      <description>&lt;p&gt;Articles are paginated with only three posts here for example. You can set the number of entries to show on this page with the &amp;ldquo;pagination&amp;rdquo; setting in the config file.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

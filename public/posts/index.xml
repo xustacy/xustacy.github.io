@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on HELLO I AM XU</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Articles on HELLO I AM XU</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我最喜愛的動物</title>
+      <link>http://localhost:1313/posts/chapter2/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chapter2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/posts/chapter1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chapter1/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h3 id=&#34;關於我個人&#34;&gt;&lt;strong&gt;關於我個人:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;姓名：&lt;/strong&gt; 許舒雅&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;生日：&lt;/strong&gt; 2002.09.30&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;學歷：&lt;/strong&gt; 東海大學 資訊管理學系&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;熟悉程式語言與使用軟體工具&#34;&gt;&lt;strong&gt;熟悉程式語言與使用軟體工具:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;✅ Python&lt;/li&gt;&#xA;&lt;li&gt;✅ C#&lt;/li&gt;&#xA;&lt;li&gt;✅ 網路前端語言 (&lt;em&gt;HTML、CSS、JavaScript&lt;/em&gt;)&lt;/li&gt;&#xA;&lt;li&gt;✅ 資料探勘 (WEKA)&lt;/li&gt;&#xA;&lt;li&gt;✅ Microsoft Access&lt;/li&gt;&#xA;&lt;li&gt;✅ Git&lt;/li&gt;&#xA;&lt;li&gt;✅ Power BI&lt;/li&gt;&#xA;&lt;li&gt;✅ SQL&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;相關檢定與證照&#34;&gt;&lt;strong&gt;相關檢定與證照：&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;✏️ ERP規劃師&lt;/li&gt;&#xA;&lt;li&gt;✏️ 資料庫管理核心能力認證&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
