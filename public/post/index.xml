@@ -6,20 +6,27 @@
     <description>Recent content in Articles on HELLO I AM XU</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>http://localhost:1313/post/chapter1/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/chapter1/</guid>
-      <description>&lt;h3 id=&#34;關於我個人&#34;&gt;&lt;strong&gt;關於我個人:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;姓名：&lt;/strong&gt; 許舒雅&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;生日：&lt;/strong&gt; 2002.09.30&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;學歷：&lt;/strong&gt; 東海大學 資訊管理學系&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;熟悉程式語言與使用軟體工具&#34;&gt;&lt;strong&gt;熟悉程式語言與使用軟體工具:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;✅ Python&lt;/li&gt;&#xA;&lt;li&gt;✅ C#&lt;/li&gt;&#xA;&lt;li&gt;✅ 網路前端語言 (&lt;em&gt;HTML、CSS、JavaScript&lt;/em&gt;)&lt;/li&gt;&#xA;&lt;li&gt;✅ 資料探勘 (WEKA)&lt;/li&gt;&#xA;&lt;li&gt;✅ Microsoft Access&lt;/li&gt;&#xA;&lt;li&gt;✅ Git&lt;/li&gt;&#xA;&lt;li&gt;✅ Power BI&lt;/li&gt;&#xA;&lt;li&gt;✅ SQL&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;相關檢定與證照&#34;&gt;&lt;strong&gt;相關檢定與證照：&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;✏️ ERP規劃師&lt;/li&gt;&#xA;&lt;li&gt;✏️ 資料庫管理核心能力認證&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h3 id=&#34;關於我個人&#34;&gt;&lt;strong&gt;關於我個人:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;姓名：&lt;/strong&gt; 許舒雅&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;生日：&lt;/strong&gt; 2002.09.30&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;學歷：&lt;/strong&gt; 東海大學 資訊管理學系四年級(即將就讀東海大學 資管所)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;信箱：&lt;/strong&gt; &lt;a href=&#34;mailto:Jenny20020930@gmail.com&#34;&gt;Jenny20020930@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>我最喜愛的動物</title>
+      <title>關於我的故事</title>
       <link>http://localhost:1313/post/chapter2/</link>
-      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/chapter2/</guid>
+      <description>&lt;p&gt;很開心可以透過這個網站來分享一些關於我的故事&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>生活除了課業我還擁有什麼</title>
+      <link>http://localhost:1313/post/chapter3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/chapter3/</guid>
       <description></description>
     </item>
   </channel>

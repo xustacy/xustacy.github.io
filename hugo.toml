@@ -5,5 +5,9 @@ theme = 'ananke'
 
 [params]
   mainSections = ["post"]
-
+[menu]
+  [[menu.main]]
+    name = "Articles"
+    url = "/post/"  #"/post/"到文章列表的網址
+    weight = 10
   
